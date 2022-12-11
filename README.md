@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://qntz.blogspot.com/](https://qntz.blogspot.com/)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**🐍
 
 - 📫 How to reach me **rohityahoo593@gmail.com**
 
