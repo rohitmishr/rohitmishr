@@ -6,7 +6,7 @@
 This site will help you to reach  [Rohit Mishra](https://sites.google.com/view/rohitkumarmishra/home).
 
 ### Technologies I am good at:-
-![Python](/rohitmishr/images/python.jpeg) ![Fastapi](/rohitmishr/images/fastapi.png) ![Django](/rohitmishr/images/django.png)  ![Flask](/rohitmishr/images/flask.png)
+![Python](../rohitmishr/images/python.jpeg) ![Fastapi](../rohitmishr/images/fastapi.png) ![Django](../rohitmishr/images/django.png)  ![Flask](../rohitmishr/images/flask.png)
 <!---
 rohitmishr/rohitmishr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
